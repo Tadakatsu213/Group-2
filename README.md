@@ -1,2 +1,1 @@
 # project
-For this module task, I was instructed to analyze and visualize the weather of over 500 cities located at varying distances from the equator. After generating a list of random cities and converting them into a pandas DataFrame, I obtained data on latitude, maximum temperature, humidity, cloudiness, and wind speed. After recieving the data I created scatter plots, added linear regression lines, and provided an analysis comparing the weather patterns in the Northern and Southern Hemispheres.
