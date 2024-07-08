@@ -9,7 +9,7 @@ Project Aim
 Analysing the spread and impact of COVID-19 helps to monitor and control the risk of future outbreaks. It informs strategies for disease surveillance, healthcare resource allocation, and public health interventions.
 Projects Questions
 How does CoronaVirus distribute to countries around the world compared to influenza/other common respiratory viruses? Yuqi(Freya)Huang
-What are the differences in gender, age, race, location relation to coronavirus infection? (Eric)
+What are the differences in location relation to coronavirus infection? (Eric)
 What are the daily trends in daily Covid19 cases and deaths across different countries and regions over time?(Eric)
 How many people get vaccinated? (comparing to first-dose, second-dose and booster) Naomi
 How many people still have antibody (serum) comparing to different population groups based on age, gender and country? Jess Z
